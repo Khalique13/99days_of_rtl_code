@@ -20,4 +20,5 @@ endmodule
 ```
 
 ## GTKWave output 
+![Screenshot from 2021-11-27 20-17-37](https://user-images.githubusercontent.com/80625515/143686476-10d4837f-afc6-4a6c-aea9-6118e01dec8e.png)
 
